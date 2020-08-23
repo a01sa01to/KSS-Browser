@@ -14,10 +14,10 @@
     },
     "devDependencies": {
         "asar": "^3.0.3",
-        "electron": "^9.2.0",
+        "electron": "^9.2.1",
         "electron-builder": "^22.8.0",
         "electron-log": "^4.2.4",
-        "electron-packager": "^15.0.0",
+        "electron-packager": "^15.1.0",
         "js-yaml": "^3.14.0"
     },
     "build": {
