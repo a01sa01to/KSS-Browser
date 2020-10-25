@@ -7,14 +7,14 @@
         "express": "^4.17.1",
         "fs": "0.0.1-security",
         "fs-extra": "^9.0.1",
-        "marked": "^1.2.0",
+        "marked": "^1.2.2",
         "node-fetch": "^2.6.1",
         "source-map-support": "^0.5.19",
         "webpack": "^5.2.0"
     },
     "devDependencies": {
         "asar": "^3.0.3",
-        "electron": "^10.1.4",
+        "electron": "^10.1.5",
         "electron-builder": "^22.9.1",
         "electron-log": "^4.2.4",
         "electron-packager": "^15.1.0",
