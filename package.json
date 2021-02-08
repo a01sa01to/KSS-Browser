@@ -7,7 +7,7 @@
         "express": "^4.17.1",
         "fs": "0.0.1-security",
         "fs-extra": "^9.0.1",
-        "marked": "^1.2.5",
+        "marked": "^2.0.0",
         "node-fetch": "^2.6.1",
         "source-map-support": "^0.5.19",
         "webpack": "^5.9.0"
